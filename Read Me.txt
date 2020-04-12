@@ -1,0 +1,10 @@
+					Iot Based IMU arm tracker
+					-------------------------
+
+Install python 3
+
+Install the PyQt5 and Numpy libraries for python
+
+Change the host Ip address in the modular imu arduino file to your computer Ip address and upload
+
+run the project_gui python file. 
